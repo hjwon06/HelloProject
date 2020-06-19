@@ -17,7 +17,9 @@
 	
 
 	rearata
-	되라이~
+
+	
+	good 이게 되나?
 
 </body>
 </html>
